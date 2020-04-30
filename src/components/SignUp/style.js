@@ -3,7 +3,7 @@ import styled from 'styled-components';
  export const SignUpWrapper =styled.div`
  background-color:#121212;
  width:100%;
- height:625px;
+ height: 100vh;
  `;
  export const SignUpContent=styled.div`
  padding:60px;
