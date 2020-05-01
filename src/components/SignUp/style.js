@@ -3,14 +3,14 @@ import styled from 'styled-components';
  export const SignUpWrapper =styled.div`
  background-color:#121212;
  width:100%;
- height: 100vh;
+
  `;
  export const SignUpContent=styled.div`
  padding:60px;
  display:flex;
  flex-direction:column;
  align-items:center;
-
+ height:505px;
  `;
  export const SignUpIcon =styled.div`
  border-radius:50px;
