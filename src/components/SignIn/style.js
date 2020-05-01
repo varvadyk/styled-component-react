@@ -4,7 +4,6 @@ import styled from 'styled-components';
  export const SignInWrapper =styled.div`
  
  width: 100%;
- height: 100vh;
 background-color:#121212;
  display:flex;
  justify-content:center;
@@ -16,6 +15,7 @@ background-color:#121212;
  display:flex;
  flex-direction:column;
  align-items:center;
+height:505px;
 
  `
 
